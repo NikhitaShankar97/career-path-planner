@@ -1,1 +1,288 @@
-
+role,skill,weight
+Data Analyst,SQL,5
+Data Analyst,Excel,5
+Data Analyst,Tableau,4
+Data Analyst,Power BI,4
+Data Analyst,Python,3
+Data Analyst,Statistics,3
+Data Analyst,Data Cleaning,4
+Data Analyst,Reporting,4
+Data Analyst,A/B Testing,2
+Data Analyst,Looker,2
+Data Analyst,Snowflake,3
+Data Analyst,Visualization,4
+Data Analyst,PowerPoint,3
+BI Analyst,SQL,5
+BI Analyst,ETL,4
+BI Analyst,Power BI,5
+BI Analyst,Tableau,4
+BI Analyst,Data Modeling,4
+BI Analyst,DAX,4
+BI Analyst,SSRS,3
+BI Analyst,SSIS,3
+BI Analyst,Snowflake,3
+BI Analyst,dbt,3
+BI Analyst,Python,2
+BI Analyst,Plotly,2
+Analytics Engineer,SQL,5
+Analytics Engineer,dbt,5
+Analytics Engineer,Data Modeling,5
+Analytics Engineer,ETL,4
+Analytics Engineer,Snowflake,4
+Analytics Engineer,BigQuery,4
+Analytics Engineer,Airflow,3
+Analytics Engineer,Version Control,3
+Analytics Engineer,Documentation,3
+Analytics Engineer,Testing,3
+Analytics Engineer,Git,3
+Analytics Engineer,Hive,2
+Data Scientist,Python,5
+Data Scientist,Pandas,5
+Data Scientist,NumPy,5
+Data Scientist,Statistics,5
+Data Scientist,Machine Learning,5
+Data Scientist,Scikit-learn,4
+Data Scientist,SQL,4
+Data Scientist,Feature Engineering,4
+Data Scientist,Model Evaluation,4
+Data Scientist,Experiment Design,3
+Data Scientist,TensorFlow,3
+Data Scientist,PyTorch,3
+Data Scientist,Grafana,2
+Machine Learning Engineer,Python,5
+Machine Learning Engineer,PyTorch,4
+Machine Learning Engineer,TensorFlow,4
+Machine Learning Engineer,Docker,4
+Machine Learning Engineer,Kubernetes,3
+Machine Learning Engineer,ML Ops,5
+Machine Learning Engineer,Model Serving,5
+Machine Learning Engineer,FastAPI,3
+Machine Learning Engineer,Airflow,3
+Machine Learning Engineer,AWS,4
+Machine Learning Engineer,GCP,3
+Machine Learning Engineer,CI/CD,4
+Machine Learning Engineer,Monitoring,3
+Machine Learning Engineer,Feature Store,3
+Machine Learning Engineer,dbt,3
+Machine Learning Engineer,Snowflake,3
+MLOps Engineer,ML Ops,5
+MLOps Engineer,Model Serving,5
+MLOps Engineer,Docker,5
+MLOps Engineer,Kubernetes,5
+MLOps Engineer,CI/CD,4
+MLOps Engineer,Feature Store,4
+MLOps Engineer,Experiment Tracking,4
+MLOps Engineer,Python,3
+MLOps Engineer,Monitoring,4
+MLOps Engineer,Grafana,3
+MLOps Engineer,Prometheus,3
+MLOps Engineer,AWS,4
+Data Engineer,Python,5
+Data Engineer,SQL,5
+Data Engineer,ETL,5
+Data Engineer,Airflow,4
+Data Engineer,Spark,4
+Data Engineer,Databricks,4
+Data Engineer,AWS,4
+Data Engineer,GCP,3
+Data Engineer,Azure,3
+Data Engineer,Kafka,3
+Data Engineer,dbt,4
+Data Engineer,Snowflake,4
+Data Engineer,Data Modeling,4
+Data Engineer,S3,3
+Data Engineer,Redshift,3
+Database Administrator,SQL,5
+Database Administrator,PostgreSQL,4
+Database Administrator,MySQL,4
+Database Administrator,Oracle,4
+Database Administrator,Backups,5
+Database Administrator,Performance Tuning,5
+Database Administrator,Replication,4
+Database Administrator,Security,4
+Database Administrator,Shell Scripting,3
+Backend Engineer,Java,5
+Backend Engineer,Python,4
+Backend Engineer,Go,3
+Backend Engineer,APIs,5
+Backend Engineer,Databases,4
+Backend Engineer,Docker,4
+Backend Engineer,Kubernetes,3
+Backend Engineer,AWS,4
+Backend Engineer,Caching,3
+Backend Engineer,Testing,4
+Backend Engineer,CI/CD,4
+Backend Engineer,Distributed Systems,3
+Frontend Engineer,JavaScript,5
+Frontend Engineer,TypeScript,4
+Frontend Engineer,React,5
+Frontend Engineer,CSS,4
+Frontend Engineer,HTML,5
+Frontend Engineer,Next.js,3
+Frontend Engineer,Redux,3
+Frontend Engineer,Testing Library,3
+Frontend Engineer,Accessibility,3
+Frontend Engineer,UX,3
+Full Stack Engineer,JavaScript,5
+Full Stack Engineer,TypeScript,4
+Full Stack Engineer,React,5
+Full Stack Engineer,Node.js,4
+Full Stack Engineer,APIs,4
+Full Stack Engineer,Databases,4
+Full Stack Engineer,Docker,3
+Full Stack Engineer,AWS,3
+Full Stack Engineer,Testing,3
+Full Stack Engineer,CI/CD,3
+Mobile Engineer (Android),Kotlin,5
+Mobile Engineer (Android),Java,4
+Mobile Engineer (Android),Android SDK,5
+Mobile Engineer (Android),Gradle,3
+Mobile Engineer (Android),REST,4
+Mobile Engineer (Android),SQLite,3
+Mobile Engineer (Android),Unit Testing,3
+Mobile Engineer (Android),Play Store,3
+Mobile Engineer (Android),Prometheus,3
+Mobile Engineer (Android),Matplotlib,2
+DevOps Engineer,AWS,5
+DevOps Engineer,Terraform,4
+DevOps Engineer,Docker,5
+DevOps Engineer,Kubernetes,5
+DevOps Engineer,Linux,5
+DevOps Engineer,CI/CD,5
+DevOps Engineer,Monitoring,4
+DevOps Engineer,Python,3
+DevOps Engineer,Ansible,4
+DevOps Engineer,GitHub Actions,3
+DevOps Engineer,BigQuery,2
+Site Reliability Engineer,Linux,5
+Site Reliability Engineer,Kubernetes,5
+Site Reliability Engineer,Docker,4
+Site Reliability Engineer,Observability,5
+Site Reliability Engineer,Incident Response,5
+Site Reliability Engineer,SRE,5
+Site Reliability Engineer,AWS,4
+Site Reliability Engineer,Capacity Planning,4
+Site Reliability Engineer,Postmortems,4
+Site Reliability Engineer,Automation,4
+Site Reliability Engineer,Python,3
+Site Reliability Engineer,Fivetran,3
+Site Reliability Engineer,Matplotlib,2
+Cloud Engineer,AWS,5
+Cloud Engineer,Azure,4
+Cloud Engineer,GCP,4
+Cloud Engineer,Networking,4
+Cloud Engineer,IAM,4
+Cloud Engineer,Terraform,4
+Cloud Engineer,Docker,3
+Cloud Engineer,Kubernetes,3
+Cloud Engineer,Linux,4
+Cloud Engineer,Bash,3
+Cloud Engineer,Athena,3
+Security Analyst,SIEM (Splunk),5
+Security Analyst,Incident Response,5
+Security Analyst,Threat Hunting,4
+Security Analyst,Vulnerability Mgmt,4
+Security Analyst,Linux,4
+Security Analyst,Networking,4
+Security Analyst,Python,3
+Security Analyst,Cloud Security,3
+Security Analyst,IAM,3
+Security Analyst,NIST,3
+Security Engineer,Cloud Security,5
+Security Engineer,IAM,5
+Security Engineer,Network Security,5
+Security Engineer,AppSec,4
+Security Engineer,OWASP,4
+Security Engineer,Burp Suite,3
+Security Engineer,SAST/DAST,4
+Security Engineer,Python,3
+Security Engineer,Kubernetes,3
+Security Engineer,Terraform,3
+QA Engineer,Test Automation,5
+QA Engineer,Selenium,4
+QA Engineer,API Testing,4
+QA Engineer,Postman,4
+QA Engineer,PyTest,3
+QA Engineer,Java,3
+QA Engineer,Python,3
+QA Engineer,CI/CD,3
+QA Engineer,Test Strategy,4
+QA Engineer,Git,2
+QA Engineer,Fivetran,3
+SDET,Test Automation,5
+SDET,Selenium,4
+SDET,Java,4
+SDET,Python,3
+SDET,CI/CD,4
+SDET,API Testing,4
+SDET,Framework Design,4
+SDET,TDD,3
+SDET,Plotly,2
+Product Manager,Stakeholder Management,5
+Product Manager,Roadmapping,5
+Product Manager,Prioritization,5
+Product Manager,JIRA,4
+Product Manager,SQL,3
+Product Manager,A/B Testing,3
+Product Manager,Analytics,4
+Product Manager,User Research,4
+Product Manager,Presentation,4
+Product Manager,PRD,4
+Product Analyst,SQL,5
+Product Analyst,Excel,5
+Product Analyst,Tableau,4
+Product Analyst,Product Analytics,5
+Product Analyst,Experiment Design,4
+Product Analyst,Amplitude,4
+Product Analyst,Mixpanel,4
+Product Analyst,A/B Testing,4
+Product Analyst,Python,2
+Product Analyst,Seaborn,2
+Product Designer (UX/UI),Figma,5
+Product Designer (UX/UI),User Research,5
+Product Designer (UX/UI),Wireframing,5
+Product Designer (UX/UI),Prototyping,5
+Product Designer (UX/UI),Design Systems,4
+Product Designer (UX/UI),Usability Testing,4
+Product Designer (UX/UI),Accessibility,4
+Product Designer (UX/UI),Visual Design,4
+Marketing Analyst,SQL,4
+Marketing Analyst,Excel,5
+Marketing Analyst,Google Analytics,5
+Marketing Analyst,Looker,3
+Marketing Analyst,Tableau,3
+Marketing Analyst,A/B Testing,4
+Marketing Analyst,Attribution,4
+Marketing Analyst,Facebook Ads,3
+Marketing Analyst,Python,2
+Marketing Analyst,BigQuery,3
+Marketing Analyst,PowerPoint,2
+Financial Analyst,Excel,5
+Financial Analyst,Financial Modeling,5
+Financial Analyst,Forecasting,4
+Financial Analyst,SQL,3
+Financial Analyst,PowerPoint,4
+Financial Analyst,Accounting,4
+Financial Analyst,Reporting,4
+Financial Analyst,Budgeting,4
+Business Analyst,Excel,5
+Business Analyst,Stakeholder Management,5
+Business Analyst,Requirements Gathering,5
+Business Analyst,SQL,3
+Business Analyst,Process Mapping,4
+Business Analyst,Documentation,4
+Business Analyst,Presentation,4
+Business Analyst,JIRA,3
+Business Analyst,KPIs,4
+Solutions Architect,AWS,5
+Solutions Architect,Architecture,5
+Solutions Architect,APIs,4
+Solutions Architect,Databases,4
+Solutions Architect,Security,4
+Solutions Architect,Networking,4
+Solutions Architect,Pre-sales,4
+Solutions Architect,Diagrams,4
+Solutions Architect,Terraform,3
+Solutions Architect,Kubernetes,3
+Solutions Architect,Git,2
+Solutions Architect,Linear,3

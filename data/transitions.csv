@@ -1,0 +1,65 @@
+src,dst,sim
+Analytics Engineer,Data Engineer,0.3077
+Analytics Engineer,BI Analyst,0.2836
+BI Analyst,Analytics Engineer,0.2836
+BI Analyst,Data Engineer,0.2658
+BI Analyst,Data Analyst,0.2571
+BI Analyst,Product Analyst,0.1571
+Backend Engineer,Full Stack Engineer,0.3125
+Backend Engineer,DevOps Engineer,0.2466
+Backend Engineer,MLOps Engineer,0.2338
+Backend Engineer,Machine Learning Engineer,0.2209
+Backend Engineer,Solutions Architect,0.1974
+Backend Engineer,Site Reliability Engineer,0.1647
+Backend Engineer,SDET,0.1618
+Business Analyst,Product Manager,0.2381
+Cloud Engineer,DevOps Engineer,0.2836
+Cloud Engineer,Solutions Architect,0.2113
+Cloud Engineer,Site Reliability Engineer,0.175
+Cloud Engineer,Security Analyst,0.1618
+Data Analyst,Marketing Analyst,0.3125
+Data Analyst,Product Analyst,0.2687
+Data Analyst,BI Analyst,0.2571
+Data Analyst,Financial Analyst,0.2344
+Data Engineer,Analytics Engineer,0.3077
+Data Engineer,BI Analyst,0.2658
+Data Engineer,Machine Learning Engineer,0.2188
+DevOps Engineer,MLOps Engineer,0.3623
+DevOps Engineer,Cloud Engineer,0.2836
+DevOps Engineer,Site Reliability Engineer,0.2727
+DevOps Engineer,Machine Learning Engineer,0.253
+DevOps Engineer,Backend Engineer,0.2466
+Financial Analyst,Data Analyst,0.2344
+Financial Analyst,Marketing Analyst,0.1639
+Frontend Engineer,Full Stack Engineer,0.2258
+Full Stack Engineer,Backend Engineer,0.3125
+Full Stack Engineer,Frontend Engineer,0.2258
+Full Stack Engineer,Solutions Architect,0.1528
+MLOps Engineer,Machine Learning Engineer,0.4595
+MLOps Engineer,DevOps Engineer,0.3623
+MLOps Engineer,Backend Engineer,0.2338
+MLOps Engineer,Site Reliability Engineer,0.186
+Machine Learning Engineer,MLOps Engineer,0.4595
+Machine Learning Engineer,DevOps Engineer,0.253
+Machine Learning Engineer,Backend Engineer,0.2209
+Machine Learning Engineer,Data Engineer,0.2188
+Marketing Analyst,Data Analyst,0.3125
+Marketing Analyst,Product Analyst,0.3051
+Marketing Analyst,Financial Analyst,0.1639
+Product Analyst,Marketing Analyst,0.3051
+Product Analyst,Data Analyst,0.2687
+Product Analyst,BI Analyst,0.1571
+Product Manager,Business Analyst,0.2381
+QA Engineer,SDET,0.449
+SDET,QA Engineer,0.449
+SDET,Backend Engineer,0.1618
+Security Analyst,Cloud Engineer,0.1618
+Security Analyst,Site Reliability Engineer,0.1519
+Site Reliability Engineer,DevOps Engineer,0.2727
+Site Reliability Engineer,MLOps Engineer,0.186
+Site Reliability Engineer,Cloud Engineer,0.175
+Site Reliability Engineer,Backend Engineer,0.1647
+Site Reliability Engineer,Security Analyst,0.1519
+Solutions Architect,Cloud Engineer,0.2113
+Solutions Architect,Backend Engineer,0.1974
+Solutions Architect,Full Stack Engineer,0.1528
